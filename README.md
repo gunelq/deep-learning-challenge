@@ -127,10 +127,16 @@ Resources and Tools:
 
 
 Pandas
+
 scikit-learn
+
+
 Google Colab
+
 NumPy
+
 TensorFlow
+
 Keras
 
 
